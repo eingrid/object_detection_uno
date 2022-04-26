@@ -1,0 +1,7 @@
+numpy==1.19.5
+Pillow==9.1.0
+gast==0.4.0
+keras==2.7.0
+tensorflow==2.7.0
+tensorflow-estimator==2.7.0
+opencv-python-headless==4.3
