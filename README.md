@@ -15,7 +15,6 @@ libcudnn8=8.1.0.77-1
 
 cuda11.2
 
-object detection api (https://github.com/tensorflow/models).
 
 # Examples and Metrics
 ![alt-text-1](example1.jpg "title-1") ![alt-text-2](example2.jpg "title-2")
